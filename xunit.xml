@@ -1,0 +1,3 @@
+<testsuite name="Mocha Tests" tests="1" failures="0" errors="0" skipped="0" timestamp="Sun, 28 May 2023 07:22:46 GMT" time="9.674">
+<testcase classname="Bing Test Suite" name="Title Validation" time="7.097"/>
+</testsuite>
