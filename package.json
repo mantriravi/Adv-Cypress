@@ -38,5 +38,7 @@
   },
   "dependencies": {
     "cypress-multi-reporters": "^1.6.3"
+
+    
   }
 }
